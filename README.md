@@ -36,7 +36,14 @@
 - ![Web Browser Result](images/webserver_browser.png)
 - ![Case Study](images/case_study_1.png)
 - 
-##Lambda
+## Lambda Function Lab
+
+### Lambda Execution Screenshot
+![Lambda Function](images/lambda_function.png)
+
+### CloudWatch Logs Insights
+![Lambda Logs Insights](images/lambda_logs_insights.png)
+
 - ![Lambda Function Screenshot](images/lamdafunction.png)
 
 
