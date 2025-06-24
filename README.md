@@ -43,6 +43,8 @@
 
 ### Lambda Monitoring in CloudWatch
 ![Lambda CloudWatch Logs](images/lamada.png)
+## EBS Lab Result
+![EBS Lab Screenshot](images/EBSLab.png)
 
 
 
