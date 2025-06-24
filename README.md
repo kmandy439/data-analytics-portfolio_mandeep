@@ -49,16 +49,21 @@
 
 
 - ##Learning Outcomes
-The skills that I got by doing this AWS portfolio are:
-This lab illustrated how IAM roles and policies can be used to give a regulated access according to job roles. 
-This was tested on each of the users (user-1, user-2, user-3) to determine the permission boundaries in S3 and EC2. 
-The findings confirmed the fact that:
-IAM policies behave the way one would hope each group should be assigned
-Managed and inline policies can be utilized in giving access
-The appropriate enforcement of the access control is achieved through the application of the role-based groups
-Planning out VPCs with safety and adjustable networks
-Creating and setting up EC2 instances with the usage of web servers
-The creation and the attachments of EBS volumes
-AWS Lambda as the serverless workflow building tool
-Deploying cloud infrastructure diagrams Structuring cloud infrastructure diagrams
+Having passed this AWS Data Analytics Portfolio, I acquired the following cloud computing and infrastructure competencies:
+
+IAM- Identity and Access Management:
+Knowledge on how to add users and implement policies to controlled access based on a role. Verified the boundary of permission with multiple user roles activated (user-1, user-2, user-3) with a different level of permission to EC2 and S3 services. Experience with managed and inline policy gained.
+
+VPC -Virtual Private Cloud:
+Implemented a practice in conducting and implementing a secure network with VPCs. Added subnets, related route tables and made the instances in the production environments publicly accessible. Acquired knowledge on IP allocations and segmentation of the network on isolated environments.
+
+Serverless Computing Lambda Functions:
+Implemented serverless using AWS Lambda. Established an automated event of terminating EC2 instances. Enabled the CloudWatch to monitor instances logs, performance metrics. Got to know how to associate IAM roles to allow execution of functions.
+
+EBS-Elastic block store:
+Researched creation of the EBS volume and mounting to EC2. Learned the various types of volumes, encryption, ability to snapshot and persistent storage of workloads.
+
+Visualization of Cloud Architectures
+A comprehensive infrastructure design was made to reflect the integration of service in AWS with IAM, VPC, EC2, EBS, and Lambda. This assisted in strengthening the knowledge on the interaction of services in the real world deployment.
+
 
