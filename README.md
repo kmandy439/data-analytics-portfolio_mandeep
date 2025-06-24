@@ -44,7 +44,6 @@
 ### Lambda Monitoring in CloudWatch
 ![Lambda CloudWatch Logs](images/lamada.png)
 
-- ![Lambda Function Screenshot](images/lamdafunction.png)
 
 
 - ##Learning Outcomes
