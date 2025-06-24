@@ -35,6 +35,10 @@
 ## diagram
 - ![Web Browser Result](images/webserver_browser.png)
 - ![Case Study](images/case_study_1.png)
+- 
+##Lambda
+- ![Lambda Function Screenshot](images/lamdafunction.png)
+
 
 - ##Learning Outcomes
 The skills that I got by doing this AWS portfolio are:
