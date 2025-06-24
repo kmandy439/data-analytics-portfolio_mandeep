@@ -38,11 +38,11 @@
 - 
 ## Lambda Function Lab
 
-### Lambda Execution Screenshot
-![Lambda Function](images/lambda_function.png)
+### Lambda Function Screenshot
+![Lambda Function](images/lamdafunction.png)
 
-### CloudWatch Logs Insights
-![Lambda Logs Insights](images/lambda_logs_insights.png)
+### Lambda Monitoring in CloudWatch
+![Lambda CloudWatch Logs](images/lamada.png)
 
 - ![Lambda Function Screenshot](images/lamdafunction.png)
 
